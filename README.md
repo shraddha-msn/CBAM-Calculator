@@ -114,8 +114,3 @@ cd Frontend
 npm run build       # outputs to Frontend/build
 ```
 
----
-
-## License
-
-ISC
