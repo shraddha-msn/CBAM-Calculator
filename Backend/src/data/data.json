@@ -1,0 +1,1951 @@
+[
+    {
+        "product": "Cement",
+        "subProduct":  [
+            {
+                "Aggregated goods category": "Calcined clay",
+                "CNcode": "2507 00 80",
+                "productName": "Other kaolinic clays (nb: applicable for calcined clay only) ",
+                "directEmissions": "0.23",
+                "indirectEmissions": "0.08",
+                "totalEmissions": "0.32"
+            },
+            {
+                "Aggregated goods category": "Cement clinker",
+                "CNcode": "2523 10 00",
+                "productName": "Cement clinkers",
+                "directEmissions": "0.83",
+                "indirectEmissions": "0.04",
+                "totalEmissions": "0.87"
+            },
+            {
+                "Aggregated goods category": "Cement",
+                "CNcode": "2523 21 00",
+                "productName": "White Portland cement, whether or not artificially coloured",
+                "directEmissions": "1.16",
+                "indirectEmissions": "0.10",
+                "totalEmissions": "1.26"
+            },
+            {
+                "Aggregated goods category": "Cement",
+                "CNcode": "2523 29 00",
+                "productName": "Other Portland cement",
+                "directEmissions": "0.81",
+                "indirectEmissions": "0.06",
+                "totalEmissions": "0.87"
+            },
+            {
+                "Aggregated goods category": "Cement",
+                "CNcode": "2523 90 00",
+                "productName": "Other hydraulic cements",
+                "directEmissions": "0.59",
+                "indirectEmissions": "0.04",
+                "totalEmissions": "0.63"
+            },
+            {
+                "Aggregated goods category": "Aluminous cement",
+                "CNcode": "2523 30 00",
+                "productName": "Aluminous cement",
+                "directEmissions": "1.75",
+                "indirectEmissions": "0.15",
+                "totalEmissions": "1.90"
+            }
+        ]
+    },
+    {
+        "product": "Aluminium",
+        "subProduct": [
+            {
+                "Aggregated goods category": "Unwrought aluminium",
+                "CNcode": "7601",
+                "productName": "Unwrought aluminium",
+                "directEmissions": "2.36",
+                "indirectEmissions": "8.14",
+                "totalEmissions": "10.49"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7603",
+                "productName": "Aluminium powders and flakes",
+                "directEmissions": "2.48",
+                "indirectEmissions": "8.40",
+                "totalEmissions": "10.88"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "2083 62 8",
+                "productName": "Bars and rods of aluminium, not alloyed",
+                "directEmissions": "2.31",
+                "indirectEmissions": "7.49",
+                "totalEmissions": "9.80"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7604 10 90",
+                "productName": "Profiles of aluminium, not alloyed",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7604 21 00",
+                "productName": "Hollow profiles of aluminium alloys",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7604 29 10",
+                "productName": "Bars and rods of aluminium alloys",
+                "directEmissions": "2.31",
+                "indirectEmissions": "7.49",
+                "totalEmissions": "9.80"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7604 29 90",
+                "productName": "Profiles of aluminium alloys",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7605",
+                "productName": "Aluminium wire",
+                "directEmissions": "2.31",
+                "indirectEmissions": "7.49",
+                "totalEmissions": "9.80"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7606",
+                "productName": "Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7607",
+                "productName": "Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,2 mm",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7608",
+                "productName": "Aluminium tubes and pipes",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7609 00 00",
+                "productName": "Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7610",
+                "productName": "Aluminium structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge- sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures",
+                "directEmissions": "2.73",
+                "indirectEmissions": "9.30",
+                "totalEmissions": "12.04"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7611 00 00",
+                "productName": "Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7612",
+                "productName": "Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 litres, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7613 00 00",
+                "productName": "Aluminium containers for compressed or liquefied gas",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7614",
+                "productName": "Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated",
+                "directEmissions": "2.31",
+                "indirectEmissions": "7.49",
+                "totalEmissions": "9.80"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7616",
+                "productName": "Other articles of aluminium",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7616 10 00",
+                "productName": "Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets,cotters, cotter pins, washers and similar articles",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7616 91 00",
+                "productName": "Cloth, grill, netting and fencing, of aluminium wire",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7616 99 10",
+                "productName": "Other - Cast",
+                "directEmissions": "2.48",
+                "indirectEmissions": "8.40",
+                "totalEmissions": "10.88"
+            },
+            {
+                "Aggregated goods category": "Aluminium products",
+                "CNcode": "7616 99 90",
+                "productName": "Other - Other",
+                "directEmissions": "2.86",
+                "indirectEmissions": "9.25",
+                "totalEmissions": "12.11"
+            }
+        ]  
+    },
+    {
+        "product": "Hydrogen",
+        "subProduct": [
+            {
+                "Aggregated goods category": "Hydrogen",
+                "CNcode": "2804 10 00",
+                "productName": "Hydrogen",
+                "directEmissions": "10.4",
+                "indirectEmissions": "0.0",
+                "totalEmissions": "10.4"
+            }
+        ]
+    },
+    {
+        "product": "Iron and Steel",
+        "subProduct": [
+            {
+                "Aggregated goods category": "Sintered Ore",
+                "CNcode": "2601 12 00",
+                "productName": "Agglomerated iron ores and concentrates, other than roasted iron pyrites",
+                "directEmissions": "0.31",
+                "indirectEmissions": "0.05",
+                "totalEmissions": "0.36"
+            },
+            {
+                "Aggregated goods category": "Pig iron",
+                "CNcode": "7201",
+                "productName": "Pig iron and spiegeleisen in pigs, blocks or other primary forms",
+                "directEmissions": "1.90",
+                "indirectEmissions": "0.17",
+                "totalEmissions": "2.07"
+            },
+            {
+                "Aggregated goods category": "FeMn",
+                "CNcode": "7202 1",
+                "productName": "Ferro-manganese",
+                "directEmissions": "1.44",
+                "indirectEmissions": "2.08",
+                "totalEmissions": "3.51"
+            },
+            {
+                "Aggregated goods category": "FeCr",
+                "CNcode": "7202 4",
+                "productName": "Ferro-chromium",
+                "directEmissions": "2.08",
+                "indirectEmissions": "3.38",
+                "totalEmissions": "5.45"
+            },
+            {
+                "Aggregated goods category": "FeNi",
+                "CNcode": "7202 6",
+                "productName": "Ferro-nickel",
+                "directEmissions": "3.49",
+                "indirectEmissions": "2.81",
+                "totalEmissions": "6.26"
+            },
+            {
+                "Aggregated goods category": "DRI",
+                "CNcode": "7203",
+                "productName": "Ferrous products obtained by direct reduction of iron ore and\nother spongy ferrous products",
+                "directEmissions": "4.81",
+                "indirectEmissions": "0.00",
+                "totalEmissions": "4.81"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7206",
+                "productName": "Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 7203)",
+                "directEmissions": "2.52",
+                "indirectEmissions": "0.23",
+                "totalEmissions": "2.75"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7206 10 00",
+                "productName": "Ingots",
+                "directEmissions": "2.52",
+                "indirectEmissions": "0.23",
+                "totalEmissions": "2.75"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7206 90 00",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.23",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207",
+                "productName": "Semi-finished products of iron or non-alloy steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 11 11",
+                "productName": "Of free-cutting steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 11 14",
+                "productName": "Of a thickness not exceeding 130 mm",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 11 16",
+                "productName": "Of a thickness exceeding 130 mm",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 12 10",
+                "productName": "Rolled or obtained by continuous casting",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 19 12",
+                "productName": "Rolled or obtained by continuous casting",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 19 80",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 11",
+                "productName": "Of free-cutting steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 15",
+                "productName": "0,25 % or more but less than 0,6\n% of carbon",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 17",
+                "productName": "0,6 % or more of carbon",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 32",
+                "productName": "Rolled or obtained by continuous casting",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 52",
+                "productName": "Rolled or obtained by continuous casting",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 20 80",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7207 11 90  7207 12 90  7207 19 19  7207 20 19  7207 20 39  7207 20 59",
+                "productName": "Forged",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218",
+                "productName": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel",
+                "directEmissions": "2.51",
+                "indirectEmissions": "2.10",
+                "totalEmissions": "4.61"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 10 00",
+                "productName": "Ingots and other primary forms",
+                "directEmissions": "2.51",
+                "indirectEmissions": "2.10",
+                "totalEmissions": "4.61"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 99 19  7218 99 80",
+                "productName": "Forged",
+                "directEmissions": "2.51",
+                "indirectEmissions": "2.10",
+                "totalEmissions": "4.61"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 99 80",
+                "productName": "Forged",
+                "directEmissions": "2.51",
+                "indirectEmissions": "2.10",
+                "totalEmissions": "4.61"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 91",
+                "productName": "Of rectangular (other than square) cross-section",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 99 11",
+                "productName": "Rolled or obtained by continuous casting",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7218 99 20",
+                "productName": "    Rolled or obtained by continuous casting",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224",
+                "productName": "Other alloy steel in ingots or other primary forms; semi- finished products of other alloy steel",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.2"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 10",
+                "productName": "Ingots and other primary forms",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.2"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 18",
+                "productName": "Forged",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.2"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 90",
+                "productName": "Forged",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.2"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 02",
+                "productName": "Of tool steel",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 03",
+                "productName": "Of high-speed steel",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 05",
+                "productName": "Containing by weight not more than 0,7 % of carbon, 0,5 % or more but not more than 1,2 % of manganese and 0,6 % or more but not more than 2,3 % of silicon; containing by weight 0,0008 % or more of boron with any other element less than the\nminimum content",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 07",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 14",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 31",
+                "productName": "Containing by weight not less than 0,9 % but not more than 1,15 % of carbon, not less than 0,5 % but not more than 2 % of chromium and, if present, not more than 0,5 % of molybdenum",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Crude steel",
+                "CNcode": "7224 90 38",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7205",
+                "productName": "Granules and powders, of pig iron, spiegeleisen, iron or steel (if not covered under category pig iron)",
+                "directEmissions": "1.9",
+                "indirectEmissions": "0.17",
+                "totalEmissions": "2.07"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7208",
+                "productName": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated ",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7209",
+                "productName": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7210",
+                "productName": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211",
+                "productName": "Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 13 00",
+                "productName": "Rolled on four faces or in a closed box pass, of a width exceeding 150 mm and a thickness of not less than 4 mm, not in coils and without patterns in relief",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 14 00",
+                "productName": "Other, of a thickness of 4,75 mm or more",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 19 00",
+                "productName": "Other",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 23",
+                "productName": "Containing by weight less than 0,25 % of carbon",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 29 00",
+                "productName": "Other",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7211 90",
+                "productName": "Other",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7212",
+                "productName": "Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7213",
+                "productName": "Bars and rods, hot-rolled, in irregularly wound coils of iron or non-alloy steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214",
+                "productName": "Bars and rods of iron or non- alloy steel, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214 10 00",
+                "productName": "Forged",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214 20 00",
+                "productName": "Containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214 30 00",
+                "productName": "Other, of free-cutting steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214 91",
+                "productName": "Of rectangular (other than square) cross-section",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7214 99",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7215",
+                "productName": "Other bars and rods of iron or non-alloy steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7216",
+                "productName": "Angles, shapes and sections of iron or non-alloy steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7217",
+                "productName": "Wire of iron or non-alloy steel",
+                "directEmissions": "1.88",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.37"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7217 10",
+                "productName": "Not plated or coated, whether or not polished",
+                "directEmissions": "1.88",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.37"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7217 20",
+                "productName": "Plated or coated with zinc",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7217 30",
+                "productName": "Plated or coated with other base metals",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7217 90",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219",
+                "productName": "Flat-rolled products of stainless steel, of a width of 600 mm or more",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 11 00",
+                "productName": "Of a thickness exceeding 10 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 12",
+                "productName": "Of a thickness of 4,75 mm or more but not exceeding 10 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 13",
+                "productName": "Of a thickness of 3 mm or more but less than 4,75 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 14",
+                "productName": "Of a thickness of less than 3 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 21",
+                "productName": "Of a thickness exceeding 10 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 22",
+                "productName": "Of a thickness of 4,75 mm or more but not exceeding 10 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 23 00",
+                "productName": "Of a thickness of 3 mm or more but less than 4,75 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 24 00",
+                "productName": "Of a thickness of less than 3 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 31 00",
+                "productName": "Of a thickness of 4,75 mm or more",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 32",
+                "productName": "Of a thickness of 3 mm or more but less than 4,75 mm",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 33",
+                "productName": "Of a thickness exceeding 1 mm but less than 3 mm",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 34",
+                "productName": "Of a thickness of 0,5 mm or more but not exceeding 1 mm",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 35",
+                "productName": "Of a thickness of less than 0,5 mm",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7219 90",
+                "productName": "Other",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7220",
+                "productName": "Flat-rolled products stainless steel, of a width of less than 600 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7220 11 00",
+                "productName": "Of a thickness of 4,75 mm or more",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7220 12 00",
+                "productName": "Of a thickness of less than 4,75 mm",
+                "directEmissions": "2.18",
+                "indirectEmissions": "1.90",
+                "totalEmissions": "4.08"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7220 20",
+                "productName": "Not further worked than cold- rolled (cold-reduced)",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7220 90",
+                "productName": "Other",
+                "directEmissions": "2.21",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.19"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7221",
+                "productName": "Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222",
+                "productName": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222 11",
+                "productName": "Of circular cross-section",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222 19",
+                "productName": "Other",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222 20",
+                "productName": "Bars and rods, not further worked than cold-formed or cold-finished",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222 40",
+                "productName": "Angles, shapes and sections",
+                "directEmissions": "2.14",
+                "indirectEmissions": "2.17",
+                "totalEmissions": "4.30"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7222 30",
+                "productName": "Other bars and rods",
+                "directEmissions": "2.51",
+                "indirectEmissions": "2.10",
+                "totalEmissions": "4.61"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7223",
+                "productName": "Wire of stainless steel",
+                "directEmissions": "2.13",
+                "indirectEmissions": "2.36",
+                "totalEmissions": "4.49"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7223 00",
+                "productName": "Wire of stainless steel",
+                "directEmissions": "2.13",
+                "indirectEmissions": "2.36",
+                "totalEmissions": "4.49"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225",
+                "productName": "Flat-rolled products of other alloy steel, of a width of 600 mm or more",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 11 00",
+                "productName": "Grain-oriented",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 19 10",
+                "productName": "Hot-rolled",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 30",
+                "productName": "Other, not further worked than hot-rolled, in coils",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 40",
+                "productName": "Other, not further worked than hot-rolled, not in coils",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 19 90",
+                "productName": "Cold-rolled",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 50",
+                "productName": "Other, not further worked than cold-rolled (cold-reduced)",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 91 00",
+                "productName": "Electrolytically plated or coated with zinc",
+                "directEmissions": "1.92",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 92 00",
+                "productName": "Otherwise plated or coated with zinc",
+                "directEmissions": "1.92",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7225 99 00",
+                "productName": "Other",
+                "directEmissions": "1.92",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226",
+                "productName": "Flat-rolled products of other alloy steel, of a width of less than 600 mm",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 11 00",
+                "productName": "Grain-oriented",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 19 10",
+                "productName": "Not further worked than hot- rolled",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 20 00",
+                "productName": "Of high-speed steel",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 91",
+                "productName": "Not further worked than hot- rolled",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.40",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 19 80",
+                "productName": "Other",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 92 00",
+                "productName": "Not further worked than cold- rolled (cold-reduced)",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.49",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7226 99",
+                "productName": "Other",
+                "directEmissions": "1.92",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7227",
+                "productName": "Bars and rods, hot-rolled, in\nirregularly wound coils, of other alloy steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228",
+                "productName": "Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 10 20 ",
+                "productName": "Not further worked than hot- rolled, hot-drawn or extruded; hot-rolled, hot-drawn or extruded, not further worked than clad",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 10 90",
+                "productName": "Other",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 20",
+                "productName": "Bars and rods, of silico- manganese steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 30",
+                "productName": "Other bars and rods, not further worked than hot-rolled, hot-drawn or extruded",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 50",
+                "productName": "Other bars and rods, not further worked than cold-formed or cold-finished",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 60",
+                "productName": "Other bars and rods",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 70",
+                "productName": "Angles, shapes and sections",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 80 00",
+                "productName": "Hollow drill bars and rods",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "2.43"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7228 10 50",
+                "productName": "Forged",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "722840",
+                "productName": "Other bars and rods, not further worked than forged",
+                "directEmissions": "2.41",
+                "indirectEmissions": "0.79",
+                "totalEmissions": "3.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7229",
+                "productName": "Wire of other alloy steel",
+                "directEmissions": "1.84",
+                "indirectEmissions": "0.75",
+                "totalEmissions": "2.59"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7301",
+                "productName": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes\nand sections, of iron or steel",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7302",
+                "productName": "Railway or tramway track construction material of iron or steel, the following: rails, check- rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialised for jointing or fixing rails",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7303 00",
+                "productName": "Tubes, pipes and hollow profiles, of cast iron",
+                "directEmissions": "2.21",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.56"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304",
+                "productName": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 11 00",
+                "productName": "Of stainless steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 22 00",
+                "productName": "Drill pipe of stainless steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 24 00",
+                "productName": "Other, of stainless steel",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 41 00",
+                "productName": "Cold-drawn or cold-rolled (cold- reduced)",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 49",
+                "productName": "Other",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 51",
+                "productName": "Cold-drawn or cold-rolled (cold- reduced)",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 59",
+                "productName": "Other",
+                "directEmissions": "1.86",
+                "indirectEmissions": "0.35",
+                "totalEmissions": "2.20"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 19",
+                "productName": "Other",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 23 00",
+                "productName": "Other drill pipe",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 29",
+                "productName": "Other",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 31",
+                "productName": "Cold-drawn or cold-rolled (cold- reduced)",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 39",
+                "productName": "Other",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7304 90 00",
+                "productName": "Other",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7305",
+                "productName": "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406,4 mm, of iron or steel",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306",
+                "productName": "Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 11 00",
+                "productName": "Welded, of stainless steel",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 21 00",
+                "productName": "Welded, of stainless steel",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 40 20",
+                "productName": "Cold-drawn or cold-rolled (cold reduced)",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 61 10",
+                "productName": "Of stainless steel",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 69 10",
+                "productName": "Of stainless steel",
+                "directEmissions": "1.98",
+                "indirectEmissions": "0.46",
+                "totalEmissions": "2.44"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 19 00",
+                "productName": "Other",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 29 00",
+                "productName": "Other",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 12",
+                "productName": "Cold-drawn or cold-rolled (cold reduced)",
+                "directEmissions": "2.03",
+                "indirectEmissions": "0.36",
+                "totalEmissions": "2.39"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 18",
+                "productName": "Other",
+                "directEmissions": "2.01",
+                "indirectEmissions": "0.27",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 41",
+                "productName": "Plated or coated with zinc",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 49",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 72",
+                "productName": "Plated or coated with zinc",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 77",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 30 80 ",
+                "productName": "Exceeding 168,3 mm but not exceeding 406,4 mm",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 61 92",
+                "productName": "With a wall thickness not exceeding 2 mm",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 61 99",
+                "productName": "With a wall thickness exceeding 2 mm",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 69 90",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 90 00",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 40 80",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.33",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 50 29",
+                "productName": "Other",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.33",
+                "totalEmissions": "2.28"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 50 21",
+                "productName": "Cold-drawn or cold-rolled (cold reduced)",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.41",
+                "totalEmissions": "2.38"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7306 50 80",
+                "productName": "Other",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.41",
+                "totalEmissions": "2.38"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307",
+                "productName": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel",
+                "directEmissions": "2.54",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "3.11"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 11",
+                "productName": "Of non-malleable cast iron",
+                "directEmissions": "2.54",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "3.11"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 19 10",
+                "productName": "Of cast iron",
+                "directEmissions": "2.54",
+                "indirectEmissions": "0.57",
+                "totalEmissions": "3.11"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 19 90",
+                "productName": "Other",
+                "directEmissions": "0.61",
+                "indirectEmissions": "1.05",
+                "totalEmissions": "1.66"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 21 00",
+                "productName": "Flanges",
+                "directEmissions": "1.87",
+                "indirectEmissions": "0.43",
+                "totalEmissions": "2.3"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 22",
+                "productName": "Threaded elbows, bends and sleeves",
+                "directEmissions": "1.87",
+                "indirectEmissions": "0.43",
+                "totalEmissions": "2.3"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 23",
+                "productName": "Butt welding fittings",
+                "directEmissions": "1.87",
+                "indirectEmissions": "0.43",
+                "totalEmissions": "2.3"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 29",
+                "productName": "Other",
+                "directEmissions": "1.87",
+                "indirectEmissions": "0.43",
+                "totalEmissions": "2.3"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 91 00",
+                "productName": "Flanges",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 92",
+                "productName": "Threaded elbows, bends and sleeves",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 93",
+                "productName": "Butt welding fittings",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7307 99",
+                "productName": "Other",
+                "directEmissions": "1.93",
+                "indirectEmissions": "0.29",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7308",
+                "productName": "Structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, lock- gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel ",
+                "directEmissions": "2.46",
+                "indirectEmissions": "2.55",
+                "totalEmissions": "5.01"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7309",
+                "productName": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heat- insulated, but not fitted with mechanical or thermal equipment",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7310",
+                "productName": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7311 00",
+                "productName": "Containers for compressed or liquefied gas, of iron or steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318",
+                "productName": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 11 00",
+                "productName": "Coach screws",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 12 90",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 13 00",
+                "productName": "Screw hooks and screw rings",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 14 91",
+                "productName": "Spaced-thread screws",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 14 99",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 19 00",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 21 00",
+                "productName": "Spring washers and other lock washers",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 24 00",
+                "productName": "Cotters and cotter pins",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 29 00",
+                "productName": "Other",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 12 10",
+                "productName": "Of stainless steel",
+                "directEmissions": "2.10",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.1"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 14 10",
+                "productName": "Of stainless steel",
+                "directEmissions": "2.10",
+                "indirectEmissions": "1.99",
+                "totalEmissions": "4.1"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 15",
+                "productName": "Other screws and bolts, whether or not with their nuts or washers",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 16",
+                "productName": "Nuts",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 22 00",
+                "productName": "Other washers",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7318 23 00",
+                "productName": "Rivets",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326",
+                "productName": "Other articles of iron or steel",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 11 00",
+                "productName": "Grinding balls and similar articles for mills",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "732619",
+                "productName": "Other",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 92",
+                "productName": "Open-die forged",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 94",
+                "productName": "Closed-die forged",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 96",
+                "productName": "Sintered",
+                "directEmissions": "2.65",
+                "indirectEmissions": "0.62",
+                "totalEmissions": "3.27"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 20 00",
+                "productName": "Articles of iron or steel wire",
+                "directEmissions": "1.95",
+                "indirectEmissions": "0.51",
+                "totalEmissions": "2.46"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 30",
+                "productName": "Ladders and steps",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 40",
+                "productName": "Pallets and similar platforms for handling goods",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 50",
+                "productName": "Reels for cables, piping and the like",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 60",
+                "productName": "Non-mechanical ventilators, guttering, hooks and like articles used in the building industry",
+                "directEmissions": "1.89",
+                "indirectEmissions": "0.32",
+                "totalEmissions": "2.21"
+            },
+            {
+                "Aggregated goods category": "Iron or steel products",
+                "CNcode": "7326 90 98",
+                "productName": "Other articles of iron or steel",
+                "directEmissions": "1.97",
+                "indirectEmissions": "0.39",
+                "totalEmissions": "2.35"
+            }
+        ]
+    }
+]
+
